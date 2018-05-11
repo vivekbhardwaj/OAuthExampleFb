@@ -7,3 +7,5 @@ user's information based upon the permission provided by user and return to our 
 using https://developers.facebook.com we can create our Facebook application and get App ID and APP secret (which will be used in our application). 
 The library that we will be using for OAuth purpose is "flask-dance" which can be installed via pip.
 
+Wiki : https://github.com/vivekbhardwaj/OAuthExampleFb/wiki
+
